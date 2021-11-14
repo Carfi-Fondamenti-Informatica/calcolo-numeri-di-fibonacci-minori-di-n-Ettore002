@@ -11,7 +11,7 @@ int main() {
       x=y+z;
       z=y;
       y=x;
-      if(x<=0){
+      if(x<=n){
          cout<<x<<endl;
       }
    }
