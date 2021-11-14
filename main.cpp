@@ -4,7 +4,7 @@ using namespace std;
 int main() {
    int n;
    cin>> n;
-   int x=1;y=1, z;
+   int x=1;y=1, z=0;
    if(n>3){
       for(int i=0;i<n;i++){
          z=x+y;
